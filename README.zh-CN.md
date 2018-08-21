@@ -44,7 +44,7 @@ ios打包需要开发者帐号，如果不是付费用户就只能通过xcode调
 安装ios框架
 
 ``` 
-$ weexpack platform add ios
+$ weex platform add ios
 ```
 
 执行打包命令
